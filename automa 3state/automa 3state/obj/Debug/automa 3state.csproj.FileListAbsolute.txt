@@ -1,0 +1,10 @@
+H:\visual studio program\automa 3state\automa 3state\bin\Debug\automa 3state.exe.config
+H:\visual studio program\automa 3state\automa 3state\bin\Debug\automa 3state.exe
+H:\visual studio program\automa 3state\automa 3state\bin\Debug\automa 3state.pdb
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa 3state.csprojAssemblyReference.cache
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa_3state.Form1.resources
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa_3state.Properties.Resources.resources
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa 3state.csproj.GenerateResource.cache
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa 3state.csproj.CoreCompileInputs.cache
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa 3state.exe
+H:\visual studio program\automa 3state\automa 3state\obj\Debug\automa 3state.pdb

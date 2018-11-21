@@ -1,0 +1,20 @@
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.csprojAssemblyReference.cache
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.Form1.resources
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.Properties.Resources.resources
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.csproj.GenerateResource.cache
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.csproj.CoreCompileInputs.cache
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\bin\Debug\blank_eraser.exe.config
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\bin\Debug\blank_eraser.exe
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\bin\Debug\blank_eraser.pdb
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.exe
+C:\Users\ALUNNO_19\source\repos\blank_eraser\blank_eraser\obj\Debug\blank_eraser.pdb
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.csprojAssemblyReference.cache
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.Form1.resources
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.Properties.Resources.resources
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.csproj.GenerateResource.cache
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.csproj.CoreCompileInputs.cache
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.exe
+E:\visual studio program\blank_eraser\obj\Debug\blank_eraser.pdb
+E:\visual studio program\blank_eraser\bin\Debug\blank_eraser.exe.config
+E:\visual studio program\blank_eraser\bin\Debug\blank_eraser.exe
+E:\visual studio program\blank_eraser\bin\Debug\blank_eraser.pdb

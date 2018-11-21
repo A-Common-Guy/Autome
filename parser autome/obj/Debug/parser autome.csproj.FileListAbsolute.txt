@@ -1,0 +1,10 @@
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\bin\Debug\parser autome.exe.config
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\bin\Debug\parser autome.exe
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\bin\Debug\parser autome.pdb
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser autome.csprojAssemblyReference.cache
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser_autome.Form1.resources
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser_autome.Properties.Resources.resources
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser autome.csproj.GenerateResource.cache
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser autome.csproj.CoreCompileInputs.cache
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser autome.exe
+C:\Users\ALUNNO_19\source\repos\parser autome\parser autome\obj\Debug\parser autome.pdb
